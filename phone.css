@@ -1,0 +1,23 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a {
+    font-size: 1rem;
+    padding: 0px ;
+}
+#home{
+    height: 300px;
+    padding: 23px;
+}
+#home p{
+   font-size: 12px;
+}
+#home::before{
+    height: 400px;
+}
+#services{
+    flex-direction: column;
+}
+html{
+    scroll-behavior: smooth;
+}
